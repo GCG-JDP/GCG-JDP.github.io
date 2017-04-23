@@ -1,0 +1,11 @@
+img#logo {
+  height: 512px;
+  display: block;
+  margin: 0 auto;
+}
+p#description {
+  text-align: center;
+  color: red;
+  font-style: italic;
+  font-size: 32pt;
+}
