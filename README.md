@@ -1,1 +1,0 @@
-# GCG-JDP.github.io
